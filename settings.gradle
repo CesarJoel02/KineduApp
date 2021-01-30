@@ -1,2 +1,3 @@
+include ':activitiesmodule'
 include ':app'
 rootProject.name = "KineduApp"
